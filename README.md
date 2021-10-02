@@ -10,6 +10,8 @@ Ping (@) 'Refund Notifications' in our [Discord server](https://discord.gg/4Ggyb
 *Follow this template:*<br><br>
 **[ @Refund Notifications ]**<br>
 **Plugin:** (Plugin Name)<br><br>
+
+Expect a message on Discord within a few minutes to hours. We want to get back with you, just please be patient<br>
 We expect our customers to be honest in their refunds. If we see that you lied about anything, we can refuse it entirely.<br>
 > NOTICE: Refunds are not policy on ImperialPlugins.com, so this is out of kindness from WilDev Studios, so they can refuse refunds at any time
 
