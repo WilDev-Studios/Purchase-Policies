@@ -5,12 +5,11 @@ List of all of our purchasing policies on [ImperialPlugins.com](https://imperial
 We understand that sometimes plugins just do not work or they do not fit your expectations, so we understand the frustrations behind not getting your money back for something you don't want right after purchase. We have implemented a 3-day money-back guarantee** to make sure you get your money back in the event you don't want your plugin anymore.
 
 ### How do I get my refund?
-Make sure you are within the 3 days mentioned above<br>
+Make sure you are within the 3 days mentioned above**<br>
 Ping (@) 'Refund Notifications' in our [Discord server](https://discord.gg/4Ggybyy87d) in the #🥺〢requests channel<br>
 *Follow this template:*<br><br>
 **[ @Refund Notifications ]**<br>
 **Plugin:** (Plugin Name)<br><br>
-
 > NOTE: If your Discord friends settings prohibit non-friend messages, then a refund will not be possible until it is allowed so the developers can contact you
 
 Expect a message on Discord within a few minutes to hours. We want to get back with you, just please be patient<br>
