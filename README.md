@@ -20,4 +20,4 @@ We expect our customers to be honest in their refunds. If we see that you lied a
 
 ## Licenses
 Each plugin purchase comes with a license key specific to you and your order.<br>
-This license key is only to be used and endorsed by you and/or your server manager(s) for the use of the server that the plugin was purchased for<br>
+This license key is only to be used and endorsed by you and/or your server manager(s) for the use of the server(s) that the plugin was purchased for<br>
