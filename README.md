@@ -34,4 +34,7 @@ If the plugin has to be made completely from scratch, then that is work that Wil
 ### Licensing
 When having requested and purchased an exclusive plugin from WilDev Studios, you inherit all rights, responsibilities, and process of the plugin in question. Rights to reproduce, duplicate, delete, etc. are all granted to you. WilDev Studios will no longer have any rights to the plugin. If you wish to have it updated** then it will be treated as a typical plugin update request so a charge will be applied for an update.
 
-> NOTICE: If a plugin needs to be updated from one library version to the next, there will be no charge applied as this is a base plugin function (and won't function if not updated). However, if the plugin needs updated for a new, removed, or edited feature then a charge will be applied.
+> NOTICE:
+> - If a plugin needs to be updated because of a bug that was present at the time of sale, there will be no charge applied as this is a base plugin problem (and won't > function if not updated).
+> - However, if the plugin needs updated for a new, removed, or edited feature then a charge will be applied.
+> - Any library that needs to be updated will have a charge applied. This is relatively simple to do so there should be no issues with library updates.
