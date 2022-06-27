@@ -32,7 +32,7 @@ If the plugin has to be made completely from scratch, then that is work that Wil
 > NOTE: If a refund is requested because of a bug, ask WilDev Studios to fix it (free of charge).
 
 ### Licensing
-When having requested and purchased an exclusive plugin from WilDev Studios, you inherit all rights, responsibilities, and process of the plugin in question. Rights to reproduce, duplicate, delete, etc. are all granted to you. WilDev Studios will no longer have any rights to the plugin. If you wish to have it updated** then it will be treated as a typical plugin update request so a charge will be applied for an update.
+When having requested and purchased an exclusive plugin from WilDev Studios, you inherit all rights, responsibilities, and process of the plugin in question. Rights to reproduce, duplicate, delete, etc. are all granted to you. WilDev Studios will no longer have any rights to the plugin. If you wish to have it updated then it will be treated as a typical plugin update request so a charge will be applied for an update.
 
 > NOTICE:
 > - If a plugin needs to be updated because of a bug that was present at the time of sale, there will be no charge applied as this is a base plugin problem (and won't > function if not updated).
